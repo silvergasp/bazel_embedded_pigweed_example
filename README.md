@@ -1,0 +1,1 @@
+# bazel_embedded_pigweed_example
